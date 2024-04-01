@@ -2,8 +2,8 @@
 # Nueva variable c
 a = 100 
 b = 51
-c = 2.3
-c = a * b / c
+e = 2.3
+c = a * b / e
 print ('Resultado = ', c)
 
 
